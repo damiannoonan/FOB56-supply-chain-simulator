@@ -1,1 +1,1 @@
-# Haskell project submission for Emurgo Cardano Developer Associat course
+# Haskell project submission for Emurgo Cardano Developer Associate course
